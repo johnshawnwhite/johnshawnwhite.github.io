@@ -1,8 +1,8 @@
 body{
-  background-image: url('https://previews.123rf.com/images/cluckva/cluckva1602/cluckva160200034/52224203-noise-paper-texture-.jpg') ;
-  color: ;
+  background-image: url('https://cdn.wallpapersafari.com/40/57/GSZUKg.jpg') ;
+  color: Green;
   font-family: Calibri;
-  margin: 5% 10%;
+  margin: 5% 18%;
 }
 
 .exp-header {
@@ -15,5 +15,7 @@ body{
 }
 
 .ID {
+  text-align: center;
+  text-transform: uppercase;
 color: black;
 }
