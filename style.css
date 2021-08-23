@@ -8,6 +8,7 @@ body{
 .exp-header {
   text-align: center;
   text-transform: uppercase;
+  text-size-adjust: 30px;
   border-top: 3px solid #3a9340;
   border-bottom: 3px solid #3a9340;
   background-color: rgba(0,0,0, 0.1)
